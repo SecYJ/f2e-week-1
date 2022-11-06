@@ -1,4 +1,4 @@
-import Heading from "../../util/heading";
+import Heading from "../../util/Heading";
 import sprit1 from "../../images/sprit-1.png";
 import sprit2 from "../../images/sprit-2.png";
 import sprit3 from "../../images/sprit-3.png";
